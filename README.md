@@ -27,7 +27,7 @@ TBD
 
 # 5. Options & the Greek Letters
 
-TBD: Black Scholes, Binomial Method, Monte carlo method + Greeks and visualisation
+TBD: Jump Diffusion, Black Scholes, Binomial Method, Monte carlo method + Greeks and visualisation
 
 # 6. Risk Metrics
 
