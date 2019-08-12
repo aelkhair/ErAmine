@@ -7,4 +7,4 @@ This repository, mainly built around Computational Finance in Python, is a colle
 ### 3. Monte Carlo Simulation
 ### 4. Options & the Greek Letters
 ### 5. Risk Metrics
-#### ..* Var - cVar
+#### 5.1 Var - cVar
