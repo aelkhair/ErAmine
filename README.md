@@ -1,4 +1,10 @@
 # ErAmine
-The purpose of this Git is to create some financial stochastic modeling and Machine Learning C++ code.
 
-More infos are to come!
+This repository, mainly built around Computational Finance in Python, is a collection of Jupyter Notebooks categorized into folders sharing the same concepts.
+
+### Asset Allocation and Portfolio Optimization
+### Financial Machine Learning
+### Monte Carlo Simulation
+### Options & the Greek Letters
+### Risk Metrics
+#### Var - cVar
