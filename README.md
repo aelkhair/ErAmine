@@ -32,3 +32,7 @@ TBD: Black Scholes, Binomial Method, Monte carlo method + Greeks and visualisati
 # 6. Risk Metrics
 
 TBD: Var (histo, para, monte carlo) , cVar, Expected Shortfall
+
+# 7. Technical Analysis (Visualization)
+
+TBD: MA7 + MA21, Bollinger Bands, MACD, ...
