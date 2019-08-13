@@ -6,10 +6,9 @@ This repository, mainly built around Computational Finance in Python, is a colle
 
 In this section, I have implemented two concepts about Assets Allocation:
 
-* Maximum Sharpe Ratio Portfolio using Monte Carlo Simulation
 ## Maximum Sharp Ratio Portfolio
 
-To explain
+To implement this portfolio's weights calculation, I have used the Monte Carlo Simulation to simulate multiple portfolio's possibilities and then select the one having the maximum sharpe ratio.
 
 ## Markowitz Portfolio (Modern Portfolio Theory)
 
