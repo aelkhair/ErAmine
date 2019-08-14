@@ -24,7 +24,7 @@ TBD
 
 # 4. Volatility and Implied Volatility
 
-
+TBD: SABR, Newton Raphson
 
 # 5. Options & the Greek Letters
 
