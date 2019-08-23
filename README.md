@@ -1,5 +1,4 @@
 # ErAmine
-
 This repository, mainly built around Computational Finance in Python, is a collection of Jupyter Notebooks categorized into folders sharing the same concepts.
 
 # 1. Assets Allocation and Portfolio Optimization
